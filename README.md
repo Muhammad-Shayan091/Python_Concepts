@@ -1,0 +1,4 @@
+REVISE PYTHON IN 2X
+<br>
+Author - Muhammad Shayan Khan
+Here we revise all the python concepts from basic syntax to advance Algo's.
